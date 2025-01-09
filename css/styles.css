@@ -34,7 +34,7 @@ body{
 .Überschrift {
     grid-column: 2;  
     font-weight: 800;
-    font-size: 40px;
+    font-size: 3rem;
     
     }
 .left-item1 {
