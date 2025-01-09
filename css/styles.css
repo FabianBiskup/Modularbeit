@@ -24,7 +24,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
     grid-gap: 3em;
     }
-.sample {
+.index {
     background-color: rgb(154, 100, 199);
     }
 .fabian {
